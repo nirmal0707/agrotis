@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "552682387272",
+    "project_id": "agrotis-dd753",
+    "storage_bucket": "agrotis-dd753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552682387272:android:486e70ca300074bda2657d",
+        "android_client_info": {
+          "package_name": "com.cyberon.agrotis.agrotis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552682387272-89vbs4ckee7pcq2eppov7stancqsic6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyberon.agrotis.agrotis",
+            "certificate_hash": "5e9865f2d788df4481f9a71cf2e00107a77c7c27"
+          }
+        },
+        {
+          "client_id": "552682387272-1hjprd6qh3ihkogigc9nshlm13ntfed4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4L2WuOTSjo6wYCQ47BIVAv4J9WooEiVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552682387272-1hjprd6qh3ihkogigc9nshlm13ntfed4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

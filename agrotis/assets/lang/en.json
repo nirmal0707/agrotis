@@ -1,0 +1,27 @@
+{
+    "login": "Login",
+    "l1": "Get OTP",
+    "l2": "Resend OTP",
+    "l3": "Enter OTP",
+    "l4": "Proceed",
+    "l5": "Auto retreiving code",
+    "l6": "Authentication success",
+    "l7": "Authentication failed",
+    "l8": "Authentication failed, please check your network connection",
+    "l9": "OTP auto retreivel timeout",
+    "l10": "Incorrect OTP",
+    "l11": "An OTP has been sent to",
+    "l12": ". Verify OTP to continue Registartion",
+    "l13": "Verify Mobile to login",
+    "h1": "Agrotis",
+    "h2": "Sign Out",
+    "h3": "Find a crop?",
+    "h4": "Click here to find suitable crop",
+    "h5": "Change language",
+    "h6": "Find",
+    "c1": "Select crop to view details",
+    "a1": "Find your crop disease?",
+    "a2": "Click here to scan your plant",
+    "a3": "Analyze"
+
+}
